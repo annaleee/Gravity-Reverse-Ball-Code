@@ -1,0 +1,1 @@
+My gold spike feature is reversing the gravity. After pressing space, player could reverse the gravity to the opposite direction.
